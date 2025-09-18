@@ -1,0 +1,4 @@
+# Chaves SSH
+*.pub
+*.pem
+*.key
